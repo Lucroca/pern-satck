@@ -1,3 +1,5 @@
+// se definen las rutas utilizadas en backend
+
 const { Router } = require("express");
 
 const {
